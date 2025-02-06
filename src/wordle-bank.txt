@@ -1,27 +1,130 @@
-about, above, actor, acute, adapt,
-  bacon, badly, baker, basis, beach,
-  cable, cabin, camel, candy, carol,
-  daily, dairy, daisy, dance, dandy,
-  eager, eagle, early, earth, eased,
-  fable, faced, facer, faces, facet,
-  gable, gaffe, gaffs, gaged, gages,
-  habit, hacks, hadal, haded, hades,
-  iambs, ibada, ichor, icier, icily,
-  jabot, jacal, jacks, jacky, jaded,
-  khaki, kicks, kinda, kinds, kings,
-  label, labor, laced, lacer, laces,
-  macro, madam, madeo, magic, maids,
-  nabob, nacre, nades, naggy, nails,
-  oafish, oakum, obese, obey, occult,
-  paced, pacer, paces, packs, pacts,
-  qadis, quack, quaff, quags, quail,
-  racer, races, racy, radar, radii,
-  sabre, sacra, sadly, safer, safety,
-  table, taboo, tacit, tacky, tacos,
-  udder, usage, users, usual, usurp,
-  vacua, vague, valid, valor, valve,
-  wacke, wacky, waded, wager, wagon,
-  xanfu, xenia, xeric, xenon, xylem,
-  yacht, yahoo, yakky, yamen, yarns,
-  zappy, zebra, zeros, zesty, zetas
-  
+about
+above
+actor
+acute
+adapt
+bacon
+badly
+baker
+basis
+beach
+cable
+cabin
+camel
+candy
+carol
+daily
+dairy
+daisy
+dance
+dandy
+eager
+eagle
+early
+earth
+eased
+fable
+faced
+facer
+faces
+facet
+gable
+gaffe
+gaffs
+gaged
+gages
+habit
+hacks
+hadal
+haded
+hades
+iambs
+ibada
+ichor
+icier
+icily
+jabot
+jacal
+jacks
+jacky
+jaded
+khaki
+kicks
+kinda
+kinds
+kings
+label
+labor
+laced
+lacer
+laces
+macro
+madam
+madeo
+magic
+maids
+nabob
+nacre
+nades
+naggy
+nails
+oafish
+oakum
+obese
+obey
+occult
+paced
+pacer
+paces
+packs
+pacts
+qadis
+quack
+quaff
+quags
+quail
+racer
+races
+racy
+radar
+radii
+sabre
+sacra
+sadly
+safer
+safety
+table
+taboo
+tacit
+tacky
+tacos
+udder
+usage
+users
+usual
+usurp
+vacua
+vague
+valid
+valor
+valve
+wacke
+wacky
+waded
+wager
+wagon
+xanfu
+xenia
+xeric
+xenon
+xylem
+yacht
+yahoo
+yakky
+yamen
+yarns
+zappy
+zebra
+zeros
+zesty
+zetas
