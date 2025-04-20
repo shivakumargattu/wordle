@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Wordle
+![image](https://github.com/user-attachments/assets/3caad733-8d08-45a6-bbb0-50e910a9a3aa)
 
 ## Available Scripts
 
